@@ -4,7 +4,7 @@
 
 <h2>📫 Social Media</h2>
   
-  <b>Discord:</b> <code>33dew#8413</code> ・ 
+  <b>Discord:</b> <code>33dew#8413</code>
   <br>
   <b>Email:</b> <a href="mailto:kontakt@mromanowski.eu">kontakt@mromanowski.eu</a> ・ 
   <b>Website:</b> <a href="https://kontakt@mromanowski.eu">mromanowski.eu</a>
@@ -19,8 +19,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=sass)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-Rust-black?style=flat&logo=csharp)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cpp)
+![C#](https://img.shields.io/badge/-CSHARP-black?style=flat&logo=csharp)
 
 <h2>⚒ Tools</h2>
 
@@ -30,7 +30,6 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=webstorm)
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-black?style=flat&logo=phpstorm)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-black?style=flat&logo=adobexd)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
@@ -47,8 +46,9 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
 ![Nest.js](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs)
-![Vue.js](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=vue)
+![Vue.js](https://img.shields.io/badge/-VueJS-black?style=flat&logo=vuedotjs)
 ![React.js](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular)
 ![Svelte.js](https://img.shields.io/badge/-SvelteJS-black?style=flat&logo=svelte)
 
 <h2>📈 My Github Stats</h2>
