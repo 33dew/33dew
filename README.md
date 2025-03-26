@@ -2,13 +2,6 @@
   <h1> Hey, I'm Michał! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=33dew" alt="33dew" /><br/><br/>
 
-<h2>📫 Social Media</h2>
-  
-  <b>Discord:</b> <code>33dew#8413</code>
-  <br>
-  <b>Email:</b> <a href="mailto:kontakt@mromanowski.eu">kontakt@mromanowski.eu</a> ・ 
-  <b>Website:</b> <a href="https://kontakt@mromanowski.eu">mromanowski.eu</a>
-
 <h2>⚒ Language</h2>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)
