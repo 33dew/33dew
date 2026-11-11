@@ -1,38 +1,33 @@
-<div align="center">
-  <h1>Hey, I'm Michał! 👋</h1>
-  <p><strong>Full-Stack Developer | Founder of <a href="https://kodify.pl">kodify.pl</a></strong></p>
+<a href="https://mromanowski.eu"><img src="assets/banner.jpg" alt="Michał Romanowski · Full-Stack Developer" width="100%"></a>
 
-  <p>I build scalable web applications by merging efficient Laravel backends with modern React frontends. 
-  Focused on clean code, performance, and delivering real business value.</p>
+<br>
 
-  <img src="https://komarev.com/ghpvc/?username=33dew&color=blue&style=flat-square" alt="33dew" />
-</div>
+Full-stack developer from Poland. I build web apps end to end with **React + TypeScript** on the front and **Laravel** on the back.
 
-### 🚀 About Me
-- 👨‍💻 Currently working as a **Full-Stack Developer** at Synteco.
-- 🛠️ Building custom software solutions under my own brand, **kodify.pl**.
-- 🎓 Technical background: **Technician Programmer**.
-- 🌍 Based in Poland | Open to remote collaborations.
+By day I work at **Synteco**. After hours I co-run **[kodify.pl](https://kodify.pl)**, a small studio shipping websites and apps for real clients, and build my own products under **Nyx**.
 
-### 🛠️ Tech Stack
+[mromanowski.eu](https://mromanowski.eu) · [LinkedIn](https://www.linkedin.com/in/dewik33/) · [kontakt@mromanowski.eu](mailto:kontakt@mromanowski.eu)
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+<br>
 
-### 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=33dew&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+### Stack I use every day
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=33dew&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=fff) ![React Router](https://img.shields.io/badge/React_Router-000?style=flat-square&logo=reactrouter&logoColor=fff) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff) ![MUI](https://img.shields.io/badge/MUI-000?style=flat-square&logo=mui&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=fff) ![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite&logoColor=fff)
 
-### 📫 Let's Connect
-- **Email:** [kontakt@mromanowski.eu](mailto:kontakt@mromanowski.eu)
-- **Website:** [kodify.pl](https://kodify.pl)
-- **LinkedIn:** [dewik33](https://www.linkedin.com/in/dewik33/)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=fff) ![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=fff) ![Reverb](https://img.shields.io/badge/Reverb_·_WebSockets-000?style=flat-square&logo=laravel&logoColor=fff) ![PHPUnit](https://img.shields.io/badge/PHPUnit-000?style=flat-square&logo=php&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=fff) ![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=fff)
+
+### Also shipped with
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff) ![Hono](https://img.shields.io/badge/Hono-000?style=flat-square&logo=hono&logoColor=fff) ![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma&logoColor=fff) ![Drizzle](https://img.shields.io/badge/Drizzle-000?style=flat-square&logo=drizzle&logoColor=fff) ![Stripe](https://img.shields.io/badge/Stripe-000?style=flat-square&logo=stripe&logoColor=fff) ![Electron](https://img.shields.io/badge/Electron-000?style=flat-square&logo=electron&logoColor=fff) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff) ![Java](https://img.shields.io/badge/Java_·_Paper_API-000?style=flat-square&logo=openjdk&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=fff) ![Nginx](https://img.shields.io/badge/Nginx-000?style=flat-square&logo=nginx&logoColor=fff)
+
+<br>
+
+### Selected work
+
+- **[Covalio](https://mromanowski.eu)** · Workspace SaaS for software houses: tasks, real-time chat, time tracking, wiki, client portal and an encrypted vault. Multi-tenant. `Laravel` `React Router` `Reverb`
+- **[NyxStudio](https://nyxstudio.pl)** · In-browser graphics tools for Minecraft creators with a paid marketplace and a creator programme. `React` `Hono` `Drizzle` `Stripe`
+- **[Kodify Builder](https://mromanowski.eu)** · Website builder for local businesses: drag & drop editor, industry templates, AI content, custom domains. `Laravel` `React` `Puck`
+- **[NyxHost](https://mromanowski.eu)** · Discord bot hosting: every bot in its own Docker container, live console, file manager, payments. `Next.js` `Prisma` `Docker`
+- **Nyx plugins** · 50+ plugins and minigames for a Minecraft network, built on a shared core. `Java` `Paper API`
+
+Most of this lives in private repos. Case studies are on **[mromanowski.eu](https://mromanowski.eu)**, and I'm happy to walk through the code in an interview.
